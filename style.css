@@ -1,0 +1,54 @@
+html,
+body {
+	width: 100%;
+	height: 100%;
+	background-color: #272822;
+	padding: 0;
+	margin: 0;
+	color : #F9FAF4;
+	font-family: 'Source Code Pro', monospace;
+}
+a {
+	text-decoration: none;
+	color: #ECE47E;
+}
+a:hover {
+	text-decoration: underline;
+}
+.container {
+	width: 90%;
+	height: 100%;
+	margin: 3% auto 10% auto;
+	background-color: #272822;
+}
+
+.variable_color {
+	color: #52E3F6;
+}
+.const_color {
+	color: #79ABFF;
+}
+.string_color {
+	color: #ECE47E;
+}
+.indent {
+	margin-left: 40px;
+}
+.double_indent {
+	margin-left: 80px;
+}
+.triple_indent {
+	margin-left: 120px;
+}
+.seventh_indent {
+	margin-left: 280px;
+}
+.overflowZero {
+	margin-left: 40px;
+}
+.overflowFirst {
+	margin-left: 80px; 
+}
+.overflowSecond {
+	margin-left: 120px; 
+}
